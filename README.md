@@ -50,14 +50,14 @@
 <img src="https://github.com/anirudhbelwadi/flask-deployment-demo/blob/master/demo%20files/18.uploadingFiles7.png?raw=true">
 - Execute the following commands in the bash console.
 <code>
-ls<br>
-git clone https://github.com/anirudhbelwadi/flask-deployment-demo.git<br>
-rm '.\demo files\'<br>
-cd flask-deployment-demo/app/<br>
-rm main.py<br>
-rm requirements.txt<br>
-mv static/ ../../<br>
-mv templates ../../<br>
+- ls<br>
+- git clone https://github.com/anirudhbelwadi/flask-deployment-demo.git<br>
+- rm '.\demo files\'<br>
+- cd flask-deployment-demo/app/<br>
+- rm main.py<br>
+- rm requirements.txt<br>
+- mv static/ ../../<br>
+- mv templates ../../<br>
 </code>
 <img src="https://github.com/anirudhbelwadi/flask-deployment-demo/blob/master/demo%20files/19.uploadingFiles8.png?raw=true">
 - Go back to file explorer in <b>mysite</b> folder, confirm that <b>static</b> and <b>templates</b> folders are present and delete <b>flask-deployment-demo</b> folder.
