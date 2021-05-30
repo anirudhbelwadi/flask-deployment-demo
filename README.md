@@ -49,14 +49,14 @@
 - Scroll to the top of this webpage and click on <b>Code > copy HTTPS link</b>.
 <img src="https://github.com/anirudhbelwadi/flask-deployment-demo/blob/master/demo%20files/18.uploadingFiles7.png?raw=true">
 - Execute the following commands in the bash console.
-- <code>ls</code>
-- <code>git clone https://github.com/anirudhbelwadi/flask-deployment-demo.git</code>
-- <code>rm '.\demo files\'</code>
-- <code>cd flask-deployment-demo/app/</code>
-- <code>rm main.py</code>
-- <code>rm requirements.txt</code>
-- <code>mv static/ ../../</code>
-- <code>mv templates ../../</code>
+- <code>ls</code><br>
+- <code>git clone https://github.com/anirudhbelwadi/flask-deployment-demo.git</code><br>
+- <code>rm '.\demo files\'</code><br>
+- <code>cd flask-deployment-demo/app/</code><br>
+- <code>rm main.py</code><br>
+- <code>rm requirements.txt</code><br>
+- <code>mv static/ ../../</code><br>
+- <code>mv templates ../../</code><br>
 
 <img src="https://github.com/anirudhbelwadi/flask-deployment-demo/blob/master/demo%20files/19.uploadingFiles8.png?raw=true">
 - Go back to file explorer in <b>mysite</b> folder, confirm that <b>static</b> and <b>templates</b> folders are present and delete <b>flask-deployment-demo</b> folder.
