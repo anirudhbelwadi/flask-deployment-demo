@@ -73,4 +73,6 @@
 <img src="https://github.com/anirudhbelwadi/flask-deployment-demo/blob/master/demo%20files/25.checkingDeployment5.png?raw=true">
 
 ## Live Deployed website link
-https://anirudhbelwadi.pythonanywhere.co
+https://anirudhbelwadi.pythonanywhere.com
+Username: anirudh@gmail.com
+Password: abcdef
